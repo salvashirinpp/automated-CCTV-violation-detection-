@@ -90,8 +90,7 @@ smart-city-violence-detection/
 ├── app.py                         # Streamlit application
 ├── violence_detection_model.keras # Trained deep learning model
 ├── notebooks/
-│   └── training_pipeline.ipynb    # Model training & experimentation
-├── data/                          # Sample or reference datasets
+│   └── notebook.ipynb    # Model training & experimentation
 ├── requirements.txt               # Dependencies
 └── README.md
 ```
